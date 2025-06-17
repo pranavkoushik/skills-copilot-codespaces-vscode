@@ -1,0 +1,10 @@
+// Name this configuration
+"Name": "Codespace fpr skills!",
+"customizations": {
+  "vscode": {
+    "extenations": [
+      "GitHub.copilot"
+    ]
+  }
+}
+}
